@@ -1,0 +1,21 @@
+
+Test-Driven Development (TDD) in Python #1 - The 3 Steps of TDD
+https://www.youtube.com/watch?v=vBJM5pzBfhY
+
+Test-Driven Development (TDD) in Python #2 - Assert First & See The Test Fail
+https://www.youtube.com/watch?v=oF5jTHSV28s
+
+Test-Driven Development (TDD) in Python #3 - What Tests Should We Write?
+https://www.youtube.com/watch?v=Ji2KKShNKic
+
+Test-Driven Development (TDD) in Python #4 - Duplication & The Rule of Three
+https://www.youtube.com/watch?v=f6KHs4aMPpU
+
+Test-Driven Development (TDD) in Python #5 - Part I - Inside-Out TDD
+https://www.youtube.com/watch?v=FerGg9E3p1w
+
+Test-Driven Development (TDD) in Python #6 - Scaling TDD with Stubs & Mocks
+https://www.youtube.com/watch?v=L2Gtln3IokQ
+
+Python Code Craft (lista de reproducción completa):
+https://www.youtube.com/playlist?list=PL1tIFPlmF4ykpjOJKVDwYkpBIeXsoak6S
